@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyResume</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="drawer_tab_names">
+        <item>Home</item>
+        <item>Objective</item>
+        <item>Academics</item>
+        <item>Skills</item>
+        <item>Projects</item>
+        <item>Interests</item>
+        <item>Hobbies</item>
+        <item>Contact</item>
+        <item>Thank You</item>
+    </string-array>
+    
+    <string-array name="qualification_details">
+        <item >Percent : 89.76</item>
+        <item >Percent : 90.33</item>
+        <item >Percent : 82.10</item>
+    </string-array>
+    
+    <string name="mobile">Mobile : +91 8971221685</string>
+    <string name="email">Email : lohithrk93@gmail.com</string>
+    <string name="github">Git Hub : https://github.com/LohithRK</string>
+    <string name="linkedin">LinkedIn : http://in.linkedin.com/pub/lohith-vishwakarma/72/793/7b4</string>
+
+    <string name="objective">To seek a challenging work environment that allows me to innovatively contribute to the growth of the company as well as my career and thereby enhance my knowledge beyond horizons.</string>
+	<string name="project">NFC based Smart phone Application for Drug Interaction and Drug Allergy Detection.</string>
+    <string name="project_decsription">This Application is applicable in HealthCare domain in preventing Medication Errors for multi-morbidity cases. As a team-member of a group of four people, I have developed a real time android application that accepts the Drug information and the Patient information from a Reader kit considered local to the Hospital premises. Upon receiving information from the registered module (Reader kit), it notifies the Doctor remotely located from the hospital about the scenario. Then it allows the Doctor to respond back with proper prescription for the situation in real time.</string>
+	<string name="arrow_right">&#8249;</string>
+	<string name="arrow_left">&#8250;</string>
+	
+</resources>
